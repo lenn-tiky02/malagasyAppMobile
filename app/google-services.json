@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504257714338",
+    "project_id": "learnmalagasy-d6904",
+    "storage_bucket": "learnmalagasy-d6904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504257714338:android:5a97ddf06eaf667aad9ffb",
+        "android_client_info": {
+          "package_name": "twikiie.mg.learnmalagasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504257714338-hopiepfr6dqa2p64v2c8oco79ga8vhf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8mi7kvlBSLYKRd-fdMRZwyMluA8Uo4fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504257714338-hopiepfr6dqa2p64v2c8oco79ga8vhf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
